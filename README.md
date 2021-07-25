@@ -1,7 +1,7 @@
 ![AK-Prof](https://user-images.githubusercontent.com/54282666/126887713-1344fa1c-0edf-4f90-847b-da222f6d66e1.png)
 
 <div>
-  <div style="margin: 0 auto;">
+  <div style="margin: 0 auto; text-align: center">
     <img src="img/instagram.png" alt="Instagram" width="20px" height="20px"></img>
     <img src="img/linkedin.png" alt="Instagram" width="20px" height="20px"></img>
     <img src="img/codechef-1324440139527402917_512.png" alt="Instagram" width="20px" height="20px"></img>
