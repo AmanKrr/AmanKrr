@@ -13,7 +13,8 @@ My name is Aman Kumar and currently I am pursing BTech Degree in CSE from Lovely
 
 ## Tools and Technologies
 
-https://img.shields.io/badge/<Code>-<C++>-<green>
+  https://img.shields.io/badge/<Code>-<C++>-<green>
+  https://img.shields.io/badge/Editior-VS%20Code-blue
 <!-- 
 ![Mediamodifier-Design-Template](https://user-images.githubusercontent.com/54282666/126888892-8ecef95a-7657-4fd1-9d3f-34973736354a.png)
 ![Mediamodifier-Design-Template (1)](https://user-images.githubusercontent.com/54282666/126888897-9bea3709-79e0-4779-9b15-23df81531bef.png)
