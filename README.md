@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/ak74458"><img src="img/linkedin.png" alt="Instagram" width="20px" height="20px"></img></a>
   <a href="https://www.codechef.com/users/amankr74458"><img src="img/codechef-1324440139527402917_512.png" alt="Instagram" width="20px" height="20px"></img></a>
   <a href="https://codeforces.com/profile/AMAN74458"><img src="img/codeforces-1324440139959685960_512.png" alt="Instagram" width="20px" height="20px"></img></a> -->
-  <a href="https://www.instagram.com/hmm_me_aman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="20px" height="20px"></img></a>
-<!--   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-  <a href="https://www.linkedin.com/in/ak74458">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://www.codechef.com/users/amankr74458">![Codeforces](https://img.shields.io/badge/Codeforces-C8232C?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
-  <a href="https://codeforces.com/profile/AMAN74458">![Codeforces](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)</a> -->
+  <a href="https://www.instagram.com/hmm_me_aman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></img></a>
+    <a href="https://www.linkedin.com/in/ak74458"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" width="20px" height="20px"></img></a>
+  <a href="https://www.codechef.com/users/amankr74458"><img src="https://img.shields.io/badge/Codeforces-C8232C?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Instagram" width="20px" height="20px"></img></a>
+  <a href="https://codeforces.com/profile/AMAN74458"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Instagram" width="20px" height="20px"></img></a>
+  
 </p>
 
 ### Hi there 👋
