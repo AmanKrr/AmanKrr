@@ -1,5 +1,5 @@
 ![AK-Prof](https://user-images.githubusercontent.com/54282666/126887713-1344fa1c-0edf-4f90-847b-da222f6d66e1.png)
-<img src="img/instagram.png"></img>
+<img src="img/instagram.png" alt="Instagram" width="100px" height="100px"></img>
 <!-- ![instagram](https://user-images.githubusercontent.com/54282666/126887905-3cbf0d39-b71a-4f40-a468-9e39bfa6284a.png) -->
 
 ### Hi there 👋
