@@ -13,10 +13,12 @@ My name is Aman Kumar and currently I am pursing BTech Degree in CSE from Lovely
 
 ## Tools and Technologies
 
+https://img.shields.io/badge/<Code>-<C++>-<green>
+<!-- 
 ![Mediamodifier-Design-Template](https://user-images.githubusercontent.com/54282666/126888892-8ecef95a-7657-4fd1-9d3f-34973736354a.png)
 ![Mediamodifier-Design-Template (1)](https://user-images.githubusercontent.com/54282666/126888897-9bea3709-79e0-4779-9b15-23df81531bef.png)
 ![Mediamodifier-Design-Template (2)](https://user-images.githubusercontent.com/54282666/126888899-a461a168-bb7e-4f4a-aba9-d6a1f048867e.png)
-![Mediamodifier-Design-Template (3)](https://user-images.githubusercontent.com/54282666/126888903-3bd66896-387e-4ce6-a81f-bce8f80819cf.png)
+![Mediamodifier-Design-Template (3)](https://user-images.githubusercontent.com/54282666/126888903-3bd66896-387e-4ce6-a81f-bce8f80819cf.png) -->
 
 <!--
 **AmanKrr/AmanKrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
