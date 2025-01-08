@@ -14,7 +14,7 @@
 
 ### Hi there 👋
 
-My name is Aman Kumar and currently I am pursing BTech Degree in CSE from Lovely Professional University. Learning different tools and technologies is fun. You can find me on LinkedIn. <a href="https://www.linkedin.com/in/ak74458"><img src="img/linkedin.png" alt="Instagram" width="10px" height="10px"></img></a>
+I am a skilled software developer with a strong foundation in frontend development and hands-on experience in backend technologies. I specialize in building intuitive and scalable web applications, designing custom libraries, and solving complex technical challenges. I’m passionate about exploring new tools and technologies to create impactful and efficient solutions. You can find me on LinkedIn. <a href="https://www.linkedin.com/in/ak74458"><img src="img/linkedin.png" alt="Instagram" width="10px" height="10px"></img></a>
 
 ## Tools and Technologies
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
